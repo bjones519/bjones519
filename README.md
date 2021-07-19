@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brittney Jones</h1>
 <h3 align="center">An eager student looking to take the next step in their professional development journey.</h3>
 
-- 🌱 I’m currently learning **Linux, Git**
+- 🌱 I’m currently learning **Linux, Git, Amazon Web Services**
 
 - 📫 How to reach me **brittney.r.jone519@gmail.com**
 
