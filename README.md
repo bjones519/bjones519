@@ -19,4 +19,5 @@
 
 <br/>  
 
-![Brittney's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjones519&show_icons=true&theme=radical)
+
+<div align="center">![Brittney's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjones519&show_icons=true&theme=tokyonight)</div>
