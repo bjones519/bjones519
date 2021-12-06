@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Brittney Jones</h1>
 <h3 align="center">An eager student looking to take the next step in their professional development journey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bjones519&label=Profile%20views&color=0e75b6&style=flat" alt="bjones519" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bjones519" alt="bjones519" /></a> </p>
-
 - 🔭 I’m currently working on [Deployment 8](https://github.com/bjones519/DEPLOY_08_CICD)
 
 - 🌱 I’m currently learning **Linux, Terraform, Amazon Web Services, CI/CD Pipelines**
