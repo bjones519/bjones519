@@ -18,3 +18,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjones519&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+![Brittney's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjones519&theme=gothamk&show_icons=true)
