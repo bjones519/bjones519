@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Deployment 8](https://github.com/bjones519/DEPLOY_08_CICD)
 
-- 🌱 I’m currently learning **Linux, Terraform, Amazon Web Services, CI/CD Pipelines**
+- 🌱 I’m currently learning **Linux, Terraform/Terraform Cloud, Amazon Web Services, Github Actions, Circle CI**
 
 - 📫 How to reach me **brittney.r.jone519@gmail.com**
 
