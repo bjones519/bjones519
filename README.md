@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23DA80F7&size=28&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23DA80F7&size=23&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋🏾, I'm Brittney Jones</h1>
 <h3 align="center">An eager student looking to take the next step in their professional development journey</h3>
 
