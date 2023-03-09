@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋🏾, I'm Brittney Jones</h1>
 <h3 align="center">An eager student looking to take the next step in their professional development journey</h3>
 
-- 🔭 I’m currently working on [Deployment 8](https://github.com/bjones519/DEPLOY_08_CICD)
+- 🔭 I’m currently working on [AWS Free Bootcamp]()
 
 - 🌱 I’m currently learning **Linux, Terraform/Terraform Cloud, Amazon Web Services, Github Actions, Circle CI**
 
