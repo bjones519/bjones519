@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **brittney.r.jone519@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1uNJ-zXzZXA7f0ZLEH5SO7EPHp4JmNvMv2kv9_t1LrnA/edit?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1E6kfl4ZOYSe_ERH4vSmmOXqoK34D0ti01MVB0V3lKD0/edit?usp=sharing)
 
 - ⚡ Fun fact **I ❤️ to travel. Hoping to visit 100 countries in my lifetime.**
 
