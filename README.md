@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237BF7C0&size=30&center=true&vCenter=true&width=527&height=54&lines=Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋🏾, I'm Brittney Jones</h1>
-<h3 align="center">An eager student looking to take the next step in their professional development journey</h3>
+<h3 align="center">An eager Engineer looking to take the next step in their professional development journey</h3>
 
 - 🔭 I’m currently working on [ExamPro Terraform Bootcamp](https://github.com/bjones519/terraform-beginner-bootcamp-2023)
 
