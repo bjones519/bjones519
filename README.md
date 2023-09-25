@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ExamPro Terraform Bootcamp](https://github.com/bjones519/terraform-beginner-bootcamp-2023)
 
-- 🌱 I’m currently learning **Linux, Terraform/Terraform Cloud, Amazon Web Services, Github Actions, Circle CI**
+- 🌱 I’m currently learning **Linux, Python, Terraform/Terraform Cloud, Amazon Web Services**
 
 - 📫 How to reach me **brittney.r.jone519@gmail.com**
 
